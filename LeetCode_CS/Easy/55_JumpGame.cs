@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCode_CS
+namespace LeetCode_CS.Easy
 {
     internal class _55_JumpGame
     {
