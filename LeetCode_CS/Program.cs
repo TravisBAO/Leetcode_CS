@@ -6,22 +6,27 @@ class Program
     public static void Main(string[] args)
     {
         // LottoMax
-        //LottoMax MyLottoMax = new();
-        //MyLottoMax.Odds_calc(7, false);
-        //MyLottoMax.Odds_calc(6, false);
-        //MyLottoMax.Odds_calc(5, false);
-        //MyLottoMax.Odds_calc(4, false);
-        //MyLottoMax.Odds_calc(3, false);
-        //MyLottoMax.Odds_calc(2, false);
-        //MyLottoMax.Odds_calc(1, false);
-        //MyLottoMax.Odds_calc(0, false);
+        {
+            //LottoMax MyLottoMax = new();
+            //MyLottoMax.Odds_calc(7, false);
+            //MyLottoMax.Odds_calc(6, false);
+            //MyLottoMax.Odds_calc(5, false);
+            //MyLottoMax.Odds_calc(4, false);
+            //MyLottoMax.Odds_calc(3, false);
+            //MyLottoMax.Odds_calc(2, false);
+            //MyLottoMax.Odds_calc(1, false);
+            //MyLottoMax.Odds_calc(0, false);
+        }
+
 
         // LeetCode 55
-        //_55_JumpGame _55_JumpGame = new _55_JumpGame();
-        ////int[] SampleArray = { 2, 3, 1, 1, 4 };
-        //int[] SampleArray = { 2, 5, 0, 0 };
-        //bool _55_JumpGameResult = _55_JumpGame.CheckToJumpToEnd(SampleArray);
-        //Console.WriteLine(_55_JumpGameResult.ToString());
+        {
+            //_55_JumpGame _55_JumpGame = new _55_JumpGame();
+            ////int[] SampleArray = { 2, 3, 1, 1, 4 };
+            //int[] SampleArray = { 2, 5, 0, 0 };
+            //bool _55_JumpGameResult = _55_JumpGame.CheckToJumpToEnd(SampleArray);
+            //Console.WriteLine(_55_JumpGameResult.ToString());
+        }
 
         // Leetcode 21
         //{
@@ -41,10 +46,13 @@ class Program
         //    _21_MergeTwoSortedLists.MergeTwoLists(List1_1, List2_1);
         //}
 
-        //_26_RemoveDuplicatesFromSortedArray _26_RemoveDuplicatesFromSortedArray = new();
-        //int[] Testcase_1 = { 1, 1, 2 };
-        //int[] Testcase_2 = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
-        //_26_RemoveDuplicatesFromSortedArray.RemoveDuplicates(Testcase_2);
+        // 26
+        {
+            //_26_RemoveDuplicatesFromSortedArray _26_RemoveDuplicatesFromSortedArray = new();
+            //int[] Testcase_1 = { 1, 1, 2 };
+            //int[] Testcase_2 = { 0, 0, 1, 1, 1, 2, 2, 3, 3, 4 };
+            //_26_RemoveDuplicatesFromSortedArray.RemoveDuplicates(Testcase_2);
+        }
 
         // 27_RemoveElement
         {
